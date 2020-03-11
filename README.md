@@ -6,6 +6,6 @@ This project is an example to using Redux with Lit-Element. It is built by using
 
 Please run below steps on terminal to run it on your local after clone it:
 
-npm run install
-npm run build
-npm run start
+  - npm run install
+  - npm run build
+  - npm run start
